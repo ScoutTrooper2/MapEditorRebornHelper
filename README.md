@@ -12,3 +12,17 @@ A: Because if you change the parent door to something else, it will break
 Q: Why is the event here?
 A: Idk, it is good for me.
 
+# Guide
+
+How to use?
+1. Place 2 scripts in unity
+2. Add Component "DoorScript" to primitive
+3. Change settings
+4. Compile Door Name
+5. Compile Schematic
+6. Download Plugin and Install to server.
+
+(Also you can use Preview to look how it be if primitive is Door)
+
+# Very important:
+If you change position of Schematic (like mp pos grab and other), Door dont change position.
